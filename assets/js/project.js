@@ -8,14 +8,14 @@ const projects = [
   {
     title: "Création d'un réseau d'entreprise",
     cardImage: "assets/images/project-page/pkt.png",
-    description: "(voir plus)<br>Voici une simulation d'un mini réseau d'entreprise réalisé sur packet tracer. L'entreprise peut communiquer avec l'exterieur, mais celui-ci n'a accès qu'a la DMZ",
-    Previewlink: "/Portfolio/dossier/SAE-12.pdf",
+    description: "(voir plus)<br>Voici une simulation d'un mini réseau d'entreprise réalisé sur packet tracer. L'entreprise peut communiquer avec l'exterieur, mais celui-ci n'a accès qu'à la DMZ.",
+    Previewlink: "#",
     Githublink: "https://github.com/SeyyLii/Mini-reseau-d-entreprise.git",
   },
   {
     title: "Analyse d'un environnement réseau",
     cardImage: "assets/images/project-page/sae.png",
-    description: "(voir plus)<br>Ce rapport est issus d'un projet visant à analyser l'environnement réseau de chez nous, ce projet utilise des logiciel tel que Wireshark ou Intel Power Gadget",
+    description: "(voir plus)<br>Ce rapport est issus d'un projet visant à analyser l'environnement réseau de chez nous, ce projet utilise des logiciels comme Wireshark ou Intel Power Gadget.",
     Previewlink: "../dossier/SAE-12.pdf",
     Githublink: "",
   },
