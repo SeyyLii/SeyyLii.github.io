@@ -1,4 +1,4 @@
-AOS.init();
+AOS.init();,
 /* Project Cards */
 
 const projectcards = document.querySelector(".projectcards");
@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "Analyse d'un environnement réseau",
-    cardImage: "assets/images/project-page/sae.png.png",
+    cardImage: "assets/images/project-page/sae.png",
     description: "(voir plus)<br>Ce rapport est issus d'un projet visant à analyser l'environnement réseau de chez nous, ce projet utilise des logiciels comme Wireshark ou Intel Power Gadget.",
     Previewlink: "../dossier/SAE-12.pdf",
     Githublink: "",
