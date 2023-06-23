@@ -50,7 +50,7 @@ const projects = [
   {
     title: "Sniffer-Ethernet",
     cardImage: "assets/images/project-page/thales.png",
-    description: "(voir plus)<br>Ce programme encode et décode le morse. L'utilisateur se laisse guider par les indications du programme en choisissant l'encodage ou décodage, un mot ou une lettre, le résultat est affiché à la fin.",
+    description: "(voir plus)<br>La page que vous voyez est issus d'un projet en collaboration avec Thales qui consiste à décoder des trames binaires et les rendre accessible sur un site web à l'aide d'une base de données.",
     Previewlink: "/Portfolio/dossier/SAE-12.pdf",
     Githublink: "https://github.com/uMatt/Thales-Sniffer",
   },
