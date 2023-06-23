@@ -30,7 +30,7 @@ const projects = [
     title: "Jeu du casse brique",
     cardImage: "assets/images/project-page/casse.png",
     description: "(voir plus)<br>Voici le celebre jeu du casse-brique codé entierement en python en utilisant le logiciel 'Processing'. Le code (disponible sur github) est composé de plusieurs classe pour chaque élément du jeu.",
-    Previewlink: "/Portfolio/dossier/SAE-12.pdf",
+    Previewlink: "",
     Githublink: "https://github.com/SeyyLii/Jeu_Casse_Brique.git",
   },
   {
@@ -53,6 +53,13 @@ const projects = [
     description: "(voir plus)<br>Ce programme encode et décode le morse. L'utilisateur se laisse guider par les indications du programme en choisissant l'encodage ou décodage, un mot ou une lettre, le résultat est affiché à la fin.",
     Previewlink: "/Portfolio/dossier/SAE-12.pdf",
     Githublink: "https://github.com/uMatt/Thales-Sniffer",
+  },
+  {
+    title: "Travail en équipe",
+    cardImage: "assets/images/project-page/#",
+    description: "(voir plus)<br>",
+    Previewlink: "#",
+    Githublink: "https://github.com/SeyyLii/#",
   },
 
 
