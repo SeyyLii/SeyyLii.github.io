@@ -64,7 +64,7 @@ const projects = [
   {
     title: "Adaptabilité / Initiative",
     cardImage: "assets/images/project-page/sophidef.gif",
-    description: "(voir plus)<br>Ma formation à l'IUT met énormément l'accent sur la grande palette de compétences techniques à acquerir lors des differents TP et projet. Pour les maitriser il est important de s'adapter au contexte de chaque TP.",
+    description: "(voir plus)<br>Ma formation à l'IUT met l'accent sur la grande palette de compétences techniques à acquerir lors des differents TP et projet. Pour les maitriser il est important de s'adapter au contexte de chaque TP.",
     Previewlink: "#",
     Githublink: "#",
   },
