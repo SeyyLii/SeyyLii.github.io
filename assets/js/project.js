@@ -62,9 +62,9 @@ const projects = [
     Githublink: "#",
   },
   {
-    title: "Adaptabilité / Esprit d'initiative",
+    title: "Adaptabilité / Initiative",
     cardImage: "assets/images/project-page/sophidef.gif",
-    description: "(voir plus)<br>Mes 11 années de footballeur amateur ainsi que ma première année de formation au BUT R&T (40% de l'année est noté en travail de groupe) m'ont permis d'acquérir une gestion du travail en équipe.",
+    description: "(voir plus)<br>Ma formation à l'IUT met énormément l'accent sur la grande palette de compétences techniques à acquerir lors des differents TP et projet. Pour les maitriser il est important de s'adapter au contexte de chaque TP.",
     Previewlink: "#",
     Githublink: "#",
   },
