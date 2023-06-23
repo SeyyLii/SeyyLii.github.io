@@ -59,7 +59,7 @@ const projects = [
     cardImage: "assets/images/project-page/#",
     description: "(voir plus)<br>Mes 11 années de footballeur amateur ainsi que ma première année de formation au BUT R&T (40% de l'année est noté en travail de groupe) m'ont permis d'acquérir une gestion du travail en équipe.",
     Previewlink: "#",
-    Githublink: "https://github.com/SeyyLii/#",
+    Githublink: "#",
   },
 
 
