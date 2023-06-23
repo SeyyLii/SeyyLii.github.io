@@ -21,7 +21,7 @@ const projects = [
   },
   {
     title: "Débogage d'équipement Cisco",
-    cardImage: "assets/images/project-page/tp",
+    cardImage: "assets/images/project-page/tp.jpeg",
     description: "(voir plus)<br>Cette image présente des routeurs/switch Cisco lors d'un TP visant à connecter plusieurs paillasse (mini-réseau) entre elles. Il a donc fallu les configurer et les connecter entre eux.",
     Previewlink: "",
     Githublink: "",
